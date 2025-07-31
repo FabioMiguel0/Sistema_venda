@@ -1,0 +1,23 @@
+{
+  "id_venda": 1,
+  "cliente": {
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao@email.com"
+  },
+  "data_venda": "2025-07-31T13:00:26.068996",
+  "itens": [
+    {
+      "id_produto": 1,
+      "produto": "Notebook Dell",
+      "quantidade": 3,
+      "preco_unitario": 2500.0,
+      "subtotal": 7500.0
+    }
+  ],
+  "subtotal": 7500.0,
+  "desconto_percentual": 10,
+  "valor_desconto": 750.0,
+  "total": 6750.0,
+  "finalizada": true
+}
