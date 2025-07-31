@@ -1,0 +1,16 @@
+# Dependências do Sistema de Vendas
+# Este projeto usa apenas bibliotecas padrão do Python 3.7+
+
+# Bibliotecas padrão utilizadas:
+# - json (manipulação de arquivos JSON)
+# - datetime (manipulação de datas)
+# - hashlib (criptografia SHA-256)
+# - os (operações do sistema operacional)
+# - typing (type hints)
+
+# Para executar:
+# python3 sistema_vendas.py (versão com bugs)
+# python3 sistema_vendas_corrigido.py (versão corrigida)
+
+# Versão mínima requerida do Python: 3.7+
+# Não há dependências externas necessárias
